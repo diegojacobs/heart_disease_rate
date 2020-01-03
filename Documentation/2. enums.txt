@@ -1,0 +1,33 @@
+0.000 | Metro - Counties in metro areas of 1 million population or more
+0.125 | Metro - Counties in metro areas of 250,000 to 1 million population
+0.250 | Metro - Counties in metro areas of fewer than 250,000 population
+0.375 | Nonmetro - Completely rural or less than 2,500 urban population, adjacent to a metro area 
+0.500 | Nonmetro - Completely rural or less than 2,500 urban population, not adjacent to a metro area 
+0.625 | Nonmetro - Urban population of 2,500 to 19,999, adjacent to a metro area
+0.750 | Nonmetro - Urban population of 2,500 to 19,999, not adjacent to a metro area
+0.875 | Nonmetro - Urban population of 20,000 or more, adjacent to a metro area
+1.000 | Nonmetro - Urban population of 20,000 or more, not adjacent to a metro area
+
+
+0.00 | Large-in a metro area with at least 1 million residents or more
+0.09 | Micropolitan adjacent to a large metro area
+0.18 | Micropolitan adjacent to a small metro area
+0.27 | Micropolitan not adjacent to a metro area
+0.36 | Noncore adjacent to a large metro area
+0.45 | Noncore adjacent to a small metro and does not contain a town of at least 2,500 residents
+0.54 | Noncore adjacent to a small metro with town of at least 2,500 residents
+0.63 | Noncore adjacent to micro area and contains a town of 2,500-19,999 residents
+0.72 | Noncore adjacent to micro area and does not contain a town of at least 2,500 residents
+0.81 | Noncore not adjacent to a metro/micro area and contains a town of 2,500  or more residents
+0.90 | Noncore not adjacent to a metro/micro area and does not contain a town of at least 2,500 residents
+1.00 | Small-in a metro area with fewer than 1 million residents
+
+0.0 | Farm-dependent
+0.2 | Federal/State government-dependent
+0.4 | Manufacturing-dependent
+0.6 | Mining-dependent
+0.8 | Nonspecialized
+1.0 | Recreation
+
+0. a
+1. b

@@ -1,0 +1,15 @@
+Min-Max Normalization
+
+v' = (v - min)/(max - min)
+
+Columns Normalized
+- area__rucc
+- area__urban_influence
+- econ__economic_typology
+- demo__birth_rate_per_1k
+- demo__death_rate_per_1k
+- health__air_pollution_particulate_matter
+- health__homicides_per_100k
+- health__motor_vehicle_crash_deaths_per_100k
+- health__pop_per_dentist
+- health__pop_per_primary_care_physician
