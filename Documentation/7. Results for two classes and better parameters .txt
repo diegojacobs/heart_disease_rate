@@ -1,0 +1,66 @@
+Improved parameters in the Machine Learning Functions
+
+1. Naive Bayes
+
+ precision    recall  f1-score   support
+
+          0       0.72      1.00      0.83       755
+          1       0.60      0.01      0.02       301
+
+avg / total       0.68      0.72      0.60      1056
+
+
+2. Linear SVC
+
+  precision    recall  f1-score   support
+
+          0       0.83      0.93      0.88       755
+          1       0.75      0.52      0.61       301
+
+avg / total       0.81      0.81      0.80      1056
+
+
+3. Logistic Regression
+
+
+  precision    recall  f1-score   support
+
+          0       0.91      0.81      0.86       755
+          1       0.63      0.80      0.71       301
+
+avg / total       0.83      0.81      0.81      1056
+
+
+4. Decision Tree
+
+    precision    recall  f1-score   support
+
+          0       0.87      0.88      0.87       755
+          1       0.68      0.67      0.67       301
+
+avg / total       0.82      0.82      0.82      1056
+
+
+
+5. Random Forest
+
+precision    recall  f1-score   support
+
+          0       0.88      0.93      0.91       755
+          1       0.80      0.69      0.74       301
+
+avg / total       0.86      0.86      0.86      1056
+
+
+6. Neural Network - Perceptron
+
+ precision    recall  f1-score   support
+
+          0       0.87      0.90      0.88       755
+          1       0.72      0.66      0.69       301
+
+avg / total       0.83      0.83      0.83      1056
+
+
+
+
